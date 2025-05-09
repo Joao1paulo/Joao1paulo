@@ -93,6 +93,13 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  
+  [![Snake animation](https://github.com/Joao1paulo/Joao1paulo/blob/output/github-contribution-grid-snake.svg)](https://github.com/Joao1paulo/Joao1paulo)
+  
+  [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=Joao1paulo&repo=Joao1paulo&theme=react)](https://github.com/Joao1paulo/Joao1paulo)
+
+
+
 </p>
 
 
