@@ -97,7 +97,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 
   
-  ![Snake animation](https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
   
 
 
