@@ -1,9 +1,11 @@
-## 👨🏻‍💻 João Paulo Goreri Rustichelli 🖌️
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=800&color=DE3B7E&width=435&height=33&lines=%3E+Bem-vindo%2C+eu+sou+o+JP%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 **`Desenvolvedor Front-end`** **`UX/UI Designer`**
 
+
 Um estudante do 2° período de _Desenvolvimendo de Software Multiplataforma_ na FATEC Registro e formado como _Técnico em Desenvolvimento de SIstemas_ na ETEC Registro.<br>
-Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo.
+Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo para torná-los tão estilosos quanto esse gif👇. <br> 
+![Texto Animado](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 <div> 
   <a href="https://www.instagram.com/um_jotape/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -88,4 +90,4 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation"/>
