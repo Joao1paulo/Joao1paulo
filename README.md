@@ -99,7 +99,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
   
   ![Snake animation](https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/github-contribution-grid-snake.svg)
   
-  [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=Joao1paulo&repo=Joao1paulo&theme=react)](https://github.com/Joao1paulo/Joao1paulo)
+
 
 
 
