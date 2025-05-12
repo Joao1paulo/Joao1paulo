@@ -4,8 +4,7 @@
 
 
 Um estudante do 2° período de _Desenvolvimendo de Software Multiplataforma_ na FATEC Registro e formado como _Técnico em Desenvolvimento de SIstemas_ na ETEC Registro.<br>
-Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo para torná-los tão estilosos quanto esse gif👇. <br> 
-![Texto Animado](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo. <br> 
 
 <div> 
   <a href="https://www.instagram.com/um_jotape/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
