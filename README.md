@@ -81,6 +81,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 
 ### 📊 Estatísticas
+
 <div style="display: flex; gap: 20px;">
 
   <div>
@@ -105,11 +106,6 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 <br/>
 
 <img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
-
-
-  
-<img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
-  
 
 
 
