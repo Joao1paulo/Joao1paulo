@@ -10,7 +10,6 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
  <a href="https://discord.com/users/xotapeee" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaopaulo.rustichelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/joão-paulo-goreri-rustichelli-78301b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 ---
@@ -79,34 +78,14 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 ---
 
-
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 20px;">
+<!-- Usando tabela para colocar as divs lado a lado -->
 
-  <div>
-    <p><img 
-         align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en" 
-         alt="joao1paulo" 
-     /></p>
-  </div>
-
-  <div>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </div>
-
-</div>
+| Estatísticas | Tecnologias |
+|--------------|-------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9) |
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
-
-
-
-
