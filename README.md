@@ -81,27 +81,30 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 
 ### 📊 Estatísticas
+<div style="display: flex; gap: 20px;">
 
-<div>
+  <div>
+    <p><img 
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en" 
+         alt="joao1paulo" 
+     /></p>
+  </div>
 
-<p><img 
-     align="center" 
-     src="https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en" 
-     alt="joao1paulo" 
-     /
-     ></p>
+  <div>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </div>
 
 </div>
 
-<div>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-</div>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation" />
 
 
   
