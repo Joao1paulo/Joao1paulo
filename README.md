@@ -15,7 +15,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens | Tecnologias | Frameworks ⚙️
 
 <img 
     align="left" 
