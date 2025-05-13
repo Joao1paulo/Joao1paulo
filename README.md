@@ -28,7 +28,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 <!-- Usando tabela para colocar as divs lado a lado -->
 
-| Estatísticas | Tecnologias |
+| **Estatísticas** | **Tecnologias** |
 |--------------|-------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9) |
 
