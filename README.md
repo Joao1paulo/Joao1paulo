@@ -21,7 +21,6 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 <img src="./images/tecnologias2.png" alt="Logo do Projeto" width="370px">
 
-<br/>
 
 ---
 
