@@ -4,7 +4,7 @@
 
 
 <div>
-Um estudante do 2° período de *Desenvolvimendo de Software Multiplataforma* na **FATEC Registro** e formado como _Técnico em Desenvolvimento de SIstemas_ na ETEC Registro.
+Um estudante do 3° período de *Desenvolvimendo de Software Multiplataforma* na **FATEC Registro** e formado como _Técnico em Desenvolvimento de SIstemas_ na ETEC Registro.
 
 Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo. 
  
