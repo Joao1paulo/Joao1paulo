@@ -17,32 +17,36 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 <a href="https://discord.com/users/xotapeee" target="_blank"><img src="https://img.shields.io/badge/-Discord-A02161?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:joaopaulo.rustichelli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-6142B2?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/joao-paulo-goreri-rustichelli-78301b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4451D8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+###
 </div>
 
 
----
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=DE3B7E&width=350&height=33&lines=%E2%9A%99%EF%B8%8FLinguagens+e+Tecnologias)](https://git.io/typing-svg)
+____________________________
+
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=600&size=25&duration=2500&pause=1500&color=FE428E&vCenter=true&width=435&lines=Linguagens+e+Tecnologias%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="./images/tecnologiasIcones.png" width="500"/>
 
 
 
+<br>
+<br>
 
----
 
-### 📊 Estatísticas
 
 <!-- Usando tabela para colocar as divs lado a lado -->
 
-| Estatísticas | Tecnologias |
-|--------------|-------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9) |
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=joao1paulo&theme=radical&show_icons=true&locale=en" alt="GitHub Stats" height="140em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1paulo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="140em"/>
+
+</div>
 
 
 
 
 <img src="https://raw.githubusercontent.com/Joao1paulo/Joao1paulo/output/snake.svg" alt="Snake animation"/>
- 
