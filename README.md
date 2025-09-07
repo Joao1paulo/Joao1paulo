@@ -25,7 +25,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=DE3B7E&width=350&height=33&lines=%E2%9A%99%EF%B8%8FLinguagens+e+Tecnologias)](https://git.io/typing-svg)
 
-<img src="./images/tecnologias3.png" alt="Logo do Projeto" width="370px">
+![Gif de tecnologias](./images/teconogiasGif.gif)
 
 
 
