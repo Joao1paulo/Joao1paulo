@@ -1,12 +1,13 @@
 ![Langs](https://capsule-render.vercel.app/api?type=venom&color=0:E2000C,100:3858E9&height=200&section=header&text=Olá,%20Eu%20sou%20o%20JP!&fontSize=50&fontColor=ffffff)
 
-**`Desenvolvedor Front-end`** **`UX/UI Designer`**
+**`Desenvolvedor Front-end`** **`UX/UI Designer`** 
 
 
 <div>
-Um estudante do 3° período de *Desenvolvimendo de Software Multiplataforma* na **FATEC Registro** e formado como _Técnico em Desenvolvimento de SIstemas_ na ETEC Registro.
+Um estudante do 3° período de  Desenvolvimento de Software Multiplataforma na FATEC Registro e formado como Técnico em Desenvolvimento de Sistemas na ETEC Registro.
 
-Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo. 
+Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo.
+
  
 
 
@@ -25,7 +26,7 @@ Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando s
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=DE3B7E&width=350&height=33&lines=%E2%9A%99%EF%B8%8FLinguagens+e+Tecnologias)](https://git.io/typing-svg)
 
-![Gif de tecnologias](./images/teconogiasGif.gif)
+<img src="./images/tecnologiasIcones.png" width="500"/>
 
 
 
