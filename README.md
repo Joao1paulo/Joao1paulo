@@ -1,4 +1,4 @@
-![Langs](https://capsule-render.vercel.app/api?type=venom&color=0:E2000C,100:3858E9&height=230&section=header&text=Olá,-nl-%20%20%20Eu%20sou%20o%20JP!&fontSize=50&fontColor=0D1117&stroke=FFFFFF&strokeWidth=1&fontAlign=50&fontAlignY=45)
+![Langs](https://capsule-render.vercel.app/api?type=venom&color=0:E2000C,100:3858E9&height=230&section=header&text=Olá,-nl-%20%20%20Eu%20sou%20o%20JP!&fontSize=50&fontColor=ffffff&ontAlign=50&fontAlignY=45)
 
 
 
