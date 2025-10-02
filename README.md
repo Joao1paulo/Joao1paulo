@@ -32,12 +32,12 @@ ____________________________
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=25&duration=2000&pause=4000&color=FF3641&vCenter=true&width=435&height=30&lines=Linguagens+e+tecnologias)](https://git.io/typing-svg)
 
-<img src="./images/linguagensTecnologias.png" width="500"/>
+<img src="./images/linguagensTecnologias.png" width="600"/>
 
 <br>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=25&duration=2000&pause=4000&color=E33F83&vCenter=true&width=435&height=30&lines=Ambientes+e+Ferramentas)](https://git.io/typing-svg)
-<img src="./images/ambientesFerramentas.png" width="210"/>
+<img src="./images/ambientesFerramentas.png" width="310"/>
 
 <br>
 <br>
