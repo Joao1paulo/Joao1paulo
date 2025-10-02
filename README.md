@@ -32,7 +32,7 @@ ____________________________
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=25&duration=2000&pause=4000&color=FF3641&vCenter=true&width=435&height=30&lines=Linguagens+e+tecnologias)](https://git.io/typing-svg)
 
-<img src="./images/linguagensTecnologias.png" width="600"/>
+<img src="./images/linguagensTecnologias2.png" width="400"/>
 
 <br>
 
