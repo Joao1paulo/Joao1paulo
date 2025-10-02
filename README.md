@@ -37,7 +37,7 @@ ____________________________
 <br>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=25&duration=2000&pause=4000&color=E33F83&vCenter=true&width=435&height=30&lines=Ambientes+e+Ferramentas)](https://git.io/typing-svg)
-<img src="./images/ambientesFerramentas.png" width="290"/>
+<img src="./images/ambientesFerramentas.png" width="270"/>
 
 <br>
 <br>
