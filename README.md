@@ -1,13 +1,10 @@
-![Langs](https://capsule-render.vercel.app/api?type=venom&color=0:E2000C,100:3858E9&height=230&section=header&text=Olá,-nl-%20%20%20Eu%20sou%20o%20JP!&fontSize=50&fontColor=ffffff&ontAlign=50&fontAlignY=45)
+![Banner](./images/banner-github-v3.png)
 
 
 
 
 
-**`Desenvolvedor Front-end`** **`UX/UI Designer`** 
-
-
-<div>
+**`Desenvolvedor Front-end`** **`UX/UI Designer`** <div>
 Um estudante do 4° período de  Desenvolvimento de Software Multiplataforma na FATEC Registro e formado como Técnico em Desenvolvimento de Sistemas na ETEC Registro.
 
 Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo.
@@ -32,7 +29,7 @@ ____________________________
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=25&duration=2000&pause=4000&color=FF3641&vCenter=true&width=435&height=30&lines=Linguagens+e+tecnologias)](https://git.io/typing-svg)
 
-<img src="./images/linguagensTecnologias2.png" width="390"/>
+<img src="./images/linguagensTecnologias.png" width="390"/>
 
 <br>
 
@@ -42,7 +39,6 @@ ____________________________
 <br>
 <br>
 
-<!-- Usando tabela para colocar as divs lado a lado -->
 
 <div align="left">
 
