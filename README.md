@@ -5,7 +5,7 @@
 
 
 **`Desenvolvedor Front-end`** **`UX/UI Designer`** <div>
-Um estudante do 4° período de  Desenvolvimento de Software Multiplataforma na FATEC Registro e formado como Técnico em Desenvolvimento de Sistemas na ETEC Registro.
+Um estudante do 5° período de  Desenvolvimento de Software Multiplataforma na FATEC Registro e formado como Técnico em Desenvolvimento de Sistemas na ETEC Registro.
 
 Tenho grande afinidade com **desenvolvimento Front-end** e **UX/UI**, buscando sempre unir estética e funcionalidade em cada projeto que desenvolvo.
 
